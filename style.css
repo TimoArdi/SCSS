@@ -1,0 +1,96 @@
+.barre {
+    background-color: orange;
+}
+
+.precious {
+    display: flex;
+}
+
+.nav-item {
+    margin-left: 70px;
+}
+.center {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: baseline;
+    align-content: stretch;
+}
+.ring-1 {
+    width: 46px;
+    height: 46px;
+    margin-top: 5px;
+    border: solid #000000 4.6px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: -21px;
+}
+
+.ring-2 {
+    width: 52px;
+    height: 52px;
+    margin-top: 5px;
+    border: solid #000000 5.2px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: -22px;
+}
+
+.ring-3 {
+    width: 58px;
+    height: 58px;
+    margin-top: 5px;
+    border: solid #000000 5.8px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: -23px;
+}
+
+.ring-4 {
+    width: 64px;
+    height: 64px;
+    margin-top: 5px;
+    border: solid #000000 6.4px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: -24px;
+}
+
+.ring-5 {
+    width: 70px;
+    height: 70px;
+    margin-top: 5px;
+    border: solid #000000 7px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: -25px;
+}
+
+.ring-6 {
+    width: 76px;
+    height: 76px;
+    margin-top: 5px;
+    border: solid #000000 7.6px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: -26px;
+}
+
+.smallRing {
+    width: 30px;
+    height: 30px;
+    margin-top: 5px;
+    border: solid orange 3px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.bigRing {
+    width: 200px;
+    height: 200px;
+    margin-top: 5px;
+    border: solid #ffdd00 20px;
+    border-radius: 50%;
+    display: inline-block;
+}
